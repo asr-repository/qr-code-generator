@@ -12,7 +12,6 @@
   "dependencies": {
     "inquirer": "^9.2.13",
     "qr-image": "^3.2.0",
-    "sanitize-filename": "^1.6.3",
-    "util": "^0.12.5"
+    "sanitize-filename": "^1.6.3"
   }
 }
